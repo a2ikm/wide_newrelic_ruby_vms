@@ -1,4 +1,6 @@
 $(function(){
+  cosole.log("Wide NewRelic Ruby VMs is enabled.");
+
   var $mainColumn = $("#main_column");
 
   var $helpPanel = $mainColumn.find(".help_panel").parent();
