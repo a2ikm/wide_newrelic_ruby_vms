@@ -1,5 +1,5 @@
 $(function(){
-  cosole.log("Wide NewRelic Ruby VMs is enabled.");
+  console.log("Wide NewRelic Ruby VMs is enabled.");
 
   var $mainColumn = $("#main_column");
 
